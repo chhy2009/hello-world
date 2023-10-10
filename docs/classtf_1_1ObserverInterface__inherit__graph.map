@@ -1,0 +1,7 @@
+<map id="tf::ObserverInterface" name="tf::ObserverInterface">
+<area shape="rect" id="Node000001" title="class to derive an executor observer" alt="" coords="116,5,335,40"/>
+<area shape="rect" id="Node000002" href="$classtf_1_1ChromeObserver.html" title="class to create an observer based on Chrome tracing format" alt="" coords="5,88,216,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,50,135,90,132,86,189,46"/>
+<area shape="rect" id="Node000003" href="$classtf_1_1TFProfObserver.html" title="class to create an observer based on the built&#45;in taskflow profiler format" alt="" coords="240,88,440,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,46,318,86,315,90,258,50"/>
+</map>

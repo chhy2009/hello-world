@@ -1,0 +1,5 @@
+<map id="tf::cudaRoundRobinCapturing" name="tf::cudaRoundRobinCapturing">
+<area shape="rect" id="Node000001" title="class to capture a CUDA graph using a round&#45;robin algorithm" alt="" coords="5,88,309,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="40,5,275,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,54,160,88,155,88,155,54"/>
+</map>

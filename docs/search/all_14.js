@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['k_0',['k',['http://en.cppreference.com/w/cpp/numeric/random/negative_binomial_distribution/params.html',1,'std::negative_binomial_distribution']]],
+  ['k_20means_20clustering_1',['k-means Clustering',['../kmeans.html',1,'Examples']]],
+  ['k_20means_20clustering_20cudaflow_2',['k-means Clustering (cudaFlow)',['../kmeans_cudaflow.html',1,'Examples']]],
+  ['k_20means_20cudaflow_3',['k means cudaflow',['../kmeans_cudaflow.html#DefineTheKMeanscudaFlow',1,'Define the k-means cudaFlow'],['../kmeans_cudaflow.html#RepeatTheExecutionofTheKMeanscudaFlow',1,'Repeat the Execution of the k-means cudaFlow']]],
+  ['k_20means_20kernels_4',['Define the k-means Kernels',['../kmeans_cudaflow.html#DefineTheKMeansKernels',1,'']]],
+  ['k_20means_20using_20cpus_5',['Parallel k-means using CPUs',['../kmeans.html#ParallelKMeansUsingCPUs',1,'']]],
+  ['kernel_6',['kernel',['../matrix_multiplication_cudaflow.html#GPUAcceleratedMatrixMultiplication',1,'Define a Matrix Multiplication Kernel'],['../classtf_1_1cudaFlow.html#aa6e734462c8b8d922f44e621f94b104c',1,'tf::cudaFlow::kernel(dim3 g, dim3 b, size_t s, F f, ArgsT &amp;&amp;... args)'],['../classtf_1_1cudaFlow.html#a6ee746bd98fbb04326d1e76dab9b955c',1,'tf::cudaFlow::kernel(cudaTask task, dim3 g, dim3 b, size_t shm, F f, ArgsT &amp;&amp;... args)'],['../classtf_1_1cudaFlowCapturer.html#a6f06c7f6954d8d67ad89f0eddfe285e9',1,'tf::cudaFlowCapturer::kernel(dim3 g, dim3 b, size_t s, F f, ArgsT &amp;&amp;... args)'],['../classtf_1_1cudaFlowCapturer.html#a850c7c028e1535db1deaecd819d82efb',1,'tf::cudaFlowCapturer::kernel(cudaTask task, dim3 g, dim3 b, size_t s, F f, ArgsT &amp;&amp;... args)'],['../namespacetf.html#afebc56ae6d5765010d0dd13a5f04132ea35c10219c45ccfb5b07444fd7e17214c',1,'tf::KERNEL']]],
+  ['kernel_20programming_7',['Q10: Do you try to simplify the GPU kernel programming?',['../FAQ.html#GeneralQuestion10',1,'']]],
+  ['kernel_20tasks_8',['Create Kernel Tasks',['../GPUTaskingsyclFlow.html#CreateKernelTasks',1,'']]],
+  ['kernels_9',['Define the k-means Kernels',['../kmeans_cudaflow.html#DefineTheKMeansKernels',1,'']]],
+  ['key_20value_20items_10',['key value items',['../cudaFlowMerge.html#cudaFlowMergeTwoRangesOfKeyValueItems',1,'Merge two Sorted Ranges of Key-Value Items'],['../CUDASTDMerge.html#CUDASTDMergeKeyValueItems',1,'Merge Two Sorted Ranges of Key-Value Items'],['../cudaFlowSort.html#cudaFlowSortKeyValueItems',1,'Sort a Range of Key-Value Items'],['../CUDASTDSort.html#CUDASTDSortKeyValueItems',1,'Sort a Range of Key-Value Items']]],
+  ['key_5fcomp_11',['key_comp',['http://en.cppreference.com/w/cpp/container/multimap/key_comp.html',1,'std::multimap::key_comp()'],['http://en.cppreference.com/w/cpp/container/map/key_comp.html',1,'std::map::key_comp()'],['http://en.cppreference.com/w/cpp/container/set/key_comp.html',1,'std::set::key_comp()'],['http://en.cppreference.com/w/cpp/container/multiset/key_comp.html',1,'std::multiset::key_comp()']]],
+  ['key_5feq_12',['key_eq',['http://en.cppreference.com/w/cpp/container/unordered_set/key_eq.html',1,'std::unordered_set::key_eq()'],['http://en.cppreference.com/w/cpp/container/unordered_multiset/key_eq.html',1,'std::unordered_multiset::key_eq()'],['http://en.cppreference.com/w/cpp/container/unordered_multimap/key_eq.html',1,'std::unordered_multimap::key_eq()'],['http://en.cppreference.com/w/cpp/container/unordered_map/key_eq.html',1,'std::unordered_map::key_eq()']]],
+  ['kill_5fdependency_13',['kill_dependency',['http://en.cppreference.com/w/cpp/atomic/kill_dependency.html',1,'std']]],
+  ['kilo_14',['kilo',['http://en.cppreference.com/w/cpp/numeric/ratio/ratio.html',1,'std']]],
+  ['knuth_5fb_15',['knuth_b',['http://en.cppreference.com/w/cpp/numeric/random/shuffle_order_engine.html',1,'std::knuth_b'],['http://en.cppreference.com/w/cpp/numeric/random/shuffle_order_engine/shuffle_order_engine.html',1,'std::knuth_b::knuth_b()']]]
+];

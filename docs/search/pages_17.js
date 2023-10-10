@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['real_20use_20cases_0',['Real Use Cases',['../usecases.html',1,'']]],
+  ['reduction_1',['reduction',['../CUDASTDReduce.html',1,'Parallel Reduction'],['../SYCLReduce.html',1,'Parallel Reduction'],['../cudaFlowReduce.html',1,'Parallel Reduction'],['../ParallelReduction.html',1,'Parallel Reduction']]],
+  ['references_2',['References',['../References.html',1,'']]],
+  ['release_201_20x_20x_20before_202018_3',['Release 1.x.x (before 2018)',['../release-1-x-x.html',1,'Releases']]],
+  ['release_202_200_200_202018_2008_2028_4',['Release 2.0.0 (2018/08/28)',['../release-2-0-0.html',1,'Releases']]],
+  ['release_202_201_200_202019_2002_2015_5',['Release 2.1.0 (2019/02/15)',['../release-2-1-0.html',1,'Releases']]],
+  ['release_202_202_200_202019_2006_2015_6',['Release 2.2.0 (2019/06/15)',['../release-2-2-0.html',1,'Releases']]],
+  ['release_202_203_200_202020_2002_2027_7',['Release 2.3.0 (2020/02/27)',['../release-2-3-0.html',1,'Releases']]],
+  ['release_202_203_201_202020_2003_2013_8',['Release 2.3.1 (2020/03/13)',['../release-2-3-1.html',1,'Releases']]],
+  ['release_202_204_200_202020_2003_2025_9',['Release 2.4.0 (2020/03/25)',['../release-2-4-0.html',1,'Releases']]],
+  ['release_202_205_200_202020_2006_2001_10',['Release 2.5.0 (2020/06/01)',['../release-2-5-0.html',1,'Releases']]],
+  ['release_202_206_200_202020_2008_2025_11',['Release 2.6.0 (2020/08/25)',['../release-2-6-0.html',1,'Releases']]],
+  ['release_202_207_200_202020_2010_2001_12',['Release 2.7.0 (2020/10/01)',['../release-2-7-0.html',1,'Releases']]],
+  ['release_203_200_200_202021_2001_2001_13',['Release 3.0.0 (2021/01/01)',['../release-3-0-0.html',1,'Releases']]],
+  ['release_203_201_200_202021_2004_2014_14',['Release 3.1.0 (2021/04/14)',['../release-3-1-0.html',1,'Releases']]],
+  ['release_203_202_200_202021_2007_2029_15',['Release 3.2.0 (2021/07/29)',['../release-3-2-0.html',1,'Releases']]],
+  ['release_203_203_200_202022_2001_2003_16',['Release 3.3.0 (2022/01/03)',['../release-3-3-0.html',1,'Releases']]],
+  ['release_203_204_200_20master_17',['Release 3.4.0 (Master)',['../release-3-4-0.html',1,'Releases']]],
+  ['release_20notes_18',['Release Notes',['../Releases.html',1,'']]],
+  ['release_20roadmap_19',['Release Roadmap',['../release-roadmap.html',1,'Releases']]],
+  ['request_20cancellation_20',['Request Cancellation',['../RequestCancellation.html',1,'Cookbook']]],
+  ['roadmap_21',['Release Roadmap',['../release-roadmap.html',1,'Releases']]],
+  ['rules_22',['Rules',['../rules.html',1,'Governance']]],
+  ['runtime_20tasking_23',['Runtime Tasking',['../RuntimeTasking.html',1,'Cookbook']]]
+];

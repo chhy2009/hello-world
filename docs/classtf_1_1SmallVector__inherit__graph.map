@@ -1,0 +1,11 @@
+<map id="tf::SmallVector&lt; T, N &gt;" name="tf::SmallVector&lt; T, N &gt;">
+<area shape="rect" id="Node000001" title="class to define a vector optimized for small array" alt="" coords="55,384,293,419"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="49,301,300,336"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,350,177,384,172,384,172,350"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="24,195,325,253"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="177,267,177,301,172,301,172,267"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,88,344,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="177,161,177,195,172,195,172,161"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="69,5,280,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="177,53,177,88,172,88,172,53"/>
+</map>

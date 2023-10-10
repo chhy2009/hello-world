@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['c_20parallel_20task_20programming_0',['Modern C++ Parallel Task Programming',['../index.html',1,'']]],
+  ['cancellation_1',['Request Cancellation',['../RequestCancellation.html',1,'Cookbook']]],
+  ['cases_2',['Real Use Cases',['../usecases.html',1,'']]],
+  ['cell_20placement_3',['Standard Cell Placement',['../dreamplace.html',1,'usecases']]],
+  ['clustering_4',['k-means Clustering',['../kmeans.html',1,'Examples']]],
+  ['clustering_20cudaflow_5',['k-means Clustering (cudaFlow)',['../kmeans_cudaflow.html',1,'Examples']]],
+  ['code_20of_20conduct_6',['Code of Conduct',['../codeofconduct.html',1,'Governance']]],
+  ['coins_7',['Flip Coins',['../flipcoins.html',1,'Examples']]],
+  ['compile_20taskflow_20with_20cuda_8',['Compile Taskflow with CUDA',['../CompileTaskflowWithCUDA.html',1,'install']]],
+  ['compile_20taskflow_20with_20sycl_9',['Compile Taskflow with SYCL',['../CompileTaskflowWithSYCL.html',1,'install']]],
+  ['composable_20tasking_10',['Composable Tasking',['../ComposableTasking.html',1,'Cookbook']]],
+  ['concurrency_11',['Limit the Maximum Concurrency',['../LimitTheMaximumConcurrency.html',1,'Cookbook']]],
+  ['conditional_20tasking_12',['Conditional Tasking',['../ConditionalTasking.html',1,'Cookbook']]],
+  ['conduct_13',['Code of Conduct',['../codeofconduct.html',1,'Governance']]],
+  ['contributing_14',['Contributing',['../Contributing.html',1,'']]],
+  ['contributors_15',['Contributors',['../contributors.html',1,'Contributing']]],
+  ['cookbook_16',['Cookbook',['../Cookbook.html',1,'']]],
+  ['cuda_17',['Compile Taskflow with CUDA',['../CompileTaskflowWithCUDA.html',1,'install']]],
+  ['cuda_20standard_20algorithms_18',['CUDA Standard Algorithms',['../cudaStandardAlgorithms.html',1,'']]],
+  ['cudaflow_19',['cudaflow',['../GPUTaskingcudaFlow.html',1,'GPU Tasking (cudaFlow)'],['../kmeans_cudaflow.html',1,'k-means Clustering (cudaFlow)'],['../matrix_multiplication_cudaflow.html',1,'Matrix Multiplication (cudaFlow)']]],
+  ['cudaflow_20algorithms_20',['cudaFlow Algorithms',['../cudaFlowAlgorithms.html',1,'']]],
+  ['cudaflowcapturer_21',['GPU Tasking (cudaFlowCapturer)',['../GPUTaskingcudaFlowCapturer.html',1,'Cookbook']]]
+];
